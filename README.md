@@ -6,8 +6,8 @@ Student: Younes Hebik, ID: 5813030.
 
 ## Table of Contents
 - [Part 1: Documentation of RT1 Second Assignment](#part-1-documentation-of-rt1-second-assignment)
-- [Part 2: Jupyter Notebook Assignment](#Jupyter-Notebook-Assignment)
-- [Part 3: Statistical Analysis Assignment](#statistical-analysis-Assignment)
+- [Part 2: Jupyter Notebook Assignment](#part-2-Jupyter-Notebook-Assignment)
+- [Part 3: Statistical Analysis Assignment](#part-3-statistical-analysis-Assignment)
 
 
 ## Part 1: Documentation of RT1 Second Assignment
