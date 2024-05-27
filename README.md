@@ -7,7 +7,7 @@ Student: Younes Hebik, ID: 5813030.
 ## Table of Contents
 - [Part 1: Documentation of RT1 Second Assignment](#part-1-documentation-of-rt1-second-assignment)
 - [Part 2: Jupyter Notebook Assignment](#Jupyter-Notebook-Assignment)
-- [Part 3: Statistical Analysis](#statistical-analysis)
+- [Part 3: Statistical Analysis Assignment](#statistical-analysis-Assignment)
 
 
 ## Part 1: Documentation of RT1 Second Assignment
@@ -75,7 +75,7 @@ jupyter-notebook --allow-root
 5. From this interface  you can set a target  and you can cancel it any time you want,and see its path thanks to the position plot, also you can also see the bar chart for the reached and calnceled targets..
 
 
-## Part 3: Statistical Analysis
+## Part 3: Statistical Analysis Assignment
 
 In this part of the assignment, we were asked to perform  a statistical analysis comparing the performance of two code implementations: my code and Boullala's code of the RT1 first assignment. In the Folder **Statistical Analysis** You can find the report of this analysis which explores a full statistical analysis with hyposthesis, expirements and tests leading to conclusion.
 
